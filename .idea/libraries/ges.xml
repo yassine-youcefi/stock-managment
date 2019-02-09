@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ges">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ges.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
